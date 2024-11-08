@@ -24,6 +24,7 @@ return {
       [[                                                                       ]],
       [[                                                                       ]],
       [[                                                                       ]],
+      [[  https://github.com/dmdutra                                           ]],
     }
 
     alpha.setup(dashboard.opts)
